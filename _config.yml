@@ -1,0 +1,22 @@
+title: "Rajvi Bujad"
+description: "MSc Data Science Student - Notes & Projects"
+baseurl: ""
+url: "https://Rajvib-0.github.io" 
+theme: jekyll-theme-minimal
+
+# Navigation
+header_pages:
+  - about.md
+  - material.md
+  - contact.md
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom variables
+author: "Rajvi"
+university: "DAU Gandhinagar"
+degree: "MSc Data Science (2025-27)"
