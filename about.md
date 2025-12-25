@@ -13,7 +13,7 @@ title: About
                     <div class="point-details">
                         <h3>BSc Mathematics</h3>
                         <p class="institution">St. Xavier's College, Ahmedabad (SXCA)</p>
-                        <p class="description">Major in Mathematics with minor in Statistics. Built strong foundation in mathematical concepts and statistical analysis.</p>
+                        <p class="description">Course work: Linear Algebra, Geometry, Abstract Algebra, Optmization, Real Analysis, Complex Analysis, Number Theory, Cryptography.</p>
                     </div>
                 </div>
                 
@@ -46,7 +46,7 @@ title: About
                 <h3><i class="fas fa-chart-line"></i> Data Science</h3>
                 <ul>
                     <li>Machine Learning</li>
-                    <li>Data Analysis</li>
+                    <li>Deep Learning</li>
                     <li>Statistical Modeling</li>
                     <li>Data Visualization</li>
                 </ul>
@@ -56,16 +56,11 @@ title: About
                 <h3><i class="fas fa-code"></i> Technical Skills</h3>
                 <ul>
                     <li>Python Programming</li>
-                    <li>R Programming</li>
+                    <li>Matlab</li>
                     <li>SQL/Databases</li>
                     <li>LaTeX Documentation</li>
                 </ul>
             </div>
         </div>
-    </div>
-    
-    <div class="learning-philosophy">
-        <h2>Learning Philosophy</h2>
-        <p>I believe in "Learning by Documentation" - the process of writing clear, structured notes helps solidify understanding and creates valuable resources for future reference. All notes on this site are written in LaTeX for professional formatting and mathematical clarity.</p>
     </div>
 </div>
