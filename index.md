@@ -6,12 +6,11 @@ title: Home
 <div class="home-container">
     <div class="profile-section">
         <div class="profile-image">
-            <img src="{{ '/assets/images/![pic](https://github.com/user-attachments/assets/80712c35-b0f0-4b92-83d2-f52246b81df1)
-' | relative_url }}" alt="Profile Picture">
+            <img src="{{ '/assets/images/"C:\Users\Rajvi\OneDrive\Documents\Rajvi\pic.jpeg"' | relative_url }}" alt="Profile Picture">
         </div>
         
         <div class="profile-content">
-            <h1 class="welcome-text">Hello, I'm RAJVI a Data Science Student</h1>
+            <h1 class="welcome-text">Hello, I'm Rajvi a Data Science Student</h1>
             
             <div class="education-info">
                 <div class="current-edu">
