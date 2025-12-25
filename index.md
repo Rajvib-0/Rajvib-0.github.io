@@ -6,7 +6,7 @@ title: Home
 <div class="home-container">
     <div class="profile-section">
         <div class="profile-image">
-            <img src="{{ '/assets/images/"C:\Users\Rajvi\OneDrive\Documents\Rajvi\pic.jpeg"' | relative_url }}" alt="Profile Picture">
+            <img src="{{ '/assets/images/pic.jpeg' | relative_url }}" alt="Profile Picture">
         </div>
         
         <div class="profile-content">
